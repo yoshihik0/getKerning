@@ -26,3 +26,4 @@ JQueryの後に読み込みます。<br>
 ## kerningSample.html
 
 使い方のサンプルです。
+https://yoshihik0.github.io/getKerning/kerningSample.html
