@@ -23,6 +23,6 @@ JQueryの後に読み込みます。<br>
  この１行を書き込むだけです。<br>
 
 
-## kerningSample.html
+## sample.html
 
 使い方のサンプルです。
